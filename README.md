@@ -1,4 +1,6 @@
 # Optimization
-In this repostiory, we solve a simple linear programming problem in Python using Pyomo and Julia using the JuMP package.
-
-Towards Data Science Blog: https://towardsdatascience.com/linear-programming-with-python-and-julia-be9e045a5d17
+Link to my blog posts:
+|Blogs|
+|-----|
+|[Linear programming with Python and Julia](https://towardsdatascience.com/linear-programming-with-python-and-julia-be9e045a5d17)|
+|[Understanding the optimization process pipeline in linear programming](https://towardsdatascience.com/understanding-the-optimization-process-pipeline-in-linear-programming-15569d92ba94)|
